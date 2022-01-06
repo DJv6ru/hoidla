@@ -29,3 +29,5 @@ Google
 uBlock Origin
 Bootstrap
 GitHubi kasutavad oma koodivaramuna ka mitmed Eesti idufirmad, näiteks TransferWise ja Pipedrive.[47][48] Samuti hoiustab osa eID koodist GitHubis Riigi Infosüsteemi Amet (RIA)[49] ning võib leida ka muud avatud lähtekoodil põhinevat Eesti riigiametite poolt loodud tarkvara.
+
+Saan GitHubi kasutada koolis grupitöödes osalemiseks. Saan GitHubi kasutada huitavate projektidega tutvumiseks.
